@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kavita!</h1>
-//<h3 align="center">IT Undergrad at IIIT Allahabad</h3>
 
 - 👨‍💻 Sophomore in **IIIT Allahabad**
 
