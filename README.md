@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kavita!</h1>
-<h3 align="center">B.tech Undergrad at IIIT Allahabad</h3>
+<h3 align="center">IT Undergrad at IIIT Allahabad</h3>
 
 - 📫 How to reach me **dhamotkavita@gmail.com**
 
