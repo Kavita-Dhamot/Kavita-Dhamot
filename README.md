@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kavita!</h1>
 
+<br>
+
 - 👨‍💻 Sophomore in **IIIT Allahabad**
 
 - 📫 How to reach me **dhamotkavita@gmail.com**
