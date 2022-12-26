@@ -3,7 +3,7 @@
 
 <br>
 
-- 👨‍💻 Sophomore in **IIIT Allahabad**
+- 👨‍💻 Undergrad at **IIIT Allahabad'24**
 
 - 📫 How to reach me **dhamotkavita@gmail.com**
 
