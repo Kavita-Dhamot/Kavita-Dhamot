@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhamotkavita@gmail.com**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯  My portfolio: https://kavita-dhamot.github.io/Kavita_portfolio/
 
 - ⚡ Fun fact **Love Zinger Burger!!**
 
